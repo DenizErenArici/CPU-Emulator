@@ -2,11 +2,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.ArrayList;
-/**
- * @author Deniz Eren Arıcı
- * @StudentNumber 20220808040
- * 26.03.2024
- */
 
 public class CPU {
     public static int accumulator;
